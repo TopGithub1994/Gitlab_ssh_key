@@ -58,3 +58,6 @@ cat ~/.ssh/id_ed25519.pub | clip
 #### 6. In the Key box, paste the contents of your public key. If you manually copied the key, make sure you copy the entire key, which starts with **ssh-ed25519** or **ssh-rsa**, and may end with a comment.
 #### 7. In the Title text box, type a description, like Work Laptop or Home Workstation.
 #### 8. Select Add key.
+
+
+Ref. https://siritas.gitlab.io/posts/common-instruction-to-put-ssh-key-to-favorite-git-hosting/
